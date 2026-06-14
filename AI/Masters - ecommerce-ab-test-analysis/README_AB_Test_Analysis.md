@@ -8,6 +8,14 @@ Completed as part of the Udacity Statistics for Data Analysis Nanodegree.
 
 ---
 
+## Project Artifacts
+
+- 📓 [Jupyter Notebook](./notebook%20analyze_ab_test.ipynb)
+- 📊 [Dataset](./ab_data.xlsx)
+- 📚 Portfolio GitBook Case Study *(coming soon)*
+
+---
+
 ## Repository Structure
 
 ```text
